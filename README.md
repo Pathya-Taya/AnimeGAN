@@ -1,6 +1,6 @@
 # AnimeGAN - Deep Convolutional GAN for Anime Image Generation
 
-![AnimeGAN](https://github.com/swastik1005/Anime-GAN/issues/1#issue-2904972711)  
+![AnimeGAN](https://github.com/Pathya-Taya/AnimeGAN/issues/1)  
 
 ## Overview
 AnimeGAN is a deep learning model trained using a Deep Convolutional Generative Adversarial Network (DCGAN) to generate high-quality and visually appealing anime images. Built with PyTorch and Jupyter Notebook, this project explores the potential of GANs in synthesizing realistic anime-style artwork.
